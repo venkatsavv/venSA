@@ -2,7 +2,11 @@
 <h1>Hi, I'm Venkata! <br/><a href="http://www.github.com/venkatsavv/venSA.git"> <a href="https://www.linkedin.com/in/venkata-sai-avvaru-34987a201
 ">Cybersecurity Professional and Master's in Security Technologies Student</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects</h2>
+
+-----------------------------------
+
+
 
 <h2>📺 Papers</h2>
 
